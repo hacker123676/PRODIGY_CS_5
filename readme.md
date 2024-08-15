@@ -18,11 +18,11 @@ Ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/hacker123676/PRODIGY_CS_5
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd your-repository
+   cd PRODIGY_CS_5
 
 3. **Install Dependencies:**
    ```bash
